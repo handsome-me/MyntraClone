@@ -1,0 +1,19 @@
+
+
+.navbar-li{
+
+    padding: 10px;
+    color:cadetblue;
+    font-size: large;
+    text-align: center;
+    cursor: pointer;
+
+}
+.navbar-ul a{
+    text-decoration: none;
+
+}
+.navbar-ul{
+     list-style: none;
+    display: flex;
+}
