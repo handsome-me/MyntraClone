@@ -6,9 +6,9 @@ import './index.css';
 import BAGLOGO from '../../Asset/bag.svg';
 import WISHLISTLOGO from '../../Asset/personal.svg';
 import PROFILELOGO from '../../Asset/wishlist.svg';
-const BAG="BAG";
-const PROFILE="PROFILE";
-const WISHLIST="WISHLIST";
+const BAG="Bag";
+const PROFILE="Profile";
+const WISHLIST="Wishlist";
 const Header=()=>{
 
 

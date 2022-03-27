@@ -1,0 +1,11 @@
+.product-image{
+    width: 120px;
+    height: 100px;
+
+}
+
+.image-container{
+    border: 1px solid seashell;
+    padding: 5px;
+
+}

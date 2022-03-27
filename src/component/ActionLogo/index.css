@@ -1,8 +1,9 @@
 .action-container{
     display: flex;
     border: 1px solid whitesmoke;
+    margin: 5px;  
     
-
+ 
 }
 .action-container a{
     display: flex;
@@ -24,5 +25,6 @@
 .action-title{
 
     text-align: center;
-    font-size: large;
+    font-size: small;
+    color: var(--TEXTCOLOR);  
 }
