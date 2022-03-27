@@ -14,6 +14,10 @@ code {
 
 :root{
   --TEXTCOLOR:#282c3f;
+  --THEMECOLOR:#ff3e6c;
+  --WISHLISTBACKGROUND:#535766;
+  
+
   font-family: "Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue";
    
 }
