@@ -13,7 +13,8 @@ code {
 }
 
 :root{
-  --TEXTCOLOR:black;
+  --TEXTCOLOR:#282c3f;
+  font-family: "Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue";
    
 }
 

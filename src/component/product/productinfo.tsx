@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import './productinfo.css';
-const WishList="WishList";
+const WishList="WISHLIST";
 interface Props{
    title:string,
    type:string,
@@ -17,7 +17,7 @@ function Productinfo(props:Props) {
   const renderWishList=()=>{
 const {onClick}=props;
     return(
-      <button className='wishlist-button h2 title' onClick={onClick} >
+      <button className='wishlist-button title' onClick={onClick} >
          {WishList}
       </button>
     )

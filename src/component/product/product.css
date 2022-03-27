@@ -12,8 +12,8 @@
 }
 
 .product-container{
-    border: 1p solid seashell;
-    background-color: aliceblue;
+    border: 1px solid seashell;
+    background-color: white;
     display: inline-flex;
     flex-direction: column;
     cursor: pointer;
