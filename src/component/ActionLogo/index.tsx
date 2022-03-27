@@ -22,7 +22,7 @@ const ActionLogo=(props:Props)=>{
     <div className='action-container'>
      <a href='' onClick={onClick}>  
      <div className='action-logo-container defaultcss'>
-        <img width={"100%"} height={"100%"} src={logo}></img>
+        <img width={"50px"} height={"50px"} src={logo}></img>
      </div>
      <div className='action-title defaultcss'>{title}</div>
      </a>

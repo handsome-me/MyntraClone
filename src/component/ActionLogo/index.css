@@ -1,7 +1,8 @@
 .action-container{
     display: flex;
     border: 1px solid whitesmoke;
-    padding: 5px;
+    
+
 }
 .action-container a{
     display: flex;
