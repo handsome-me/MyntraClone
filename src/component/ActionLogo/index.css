@@ -1,0 +1,27 @@
+.action-container{
+    display: flex;
+    border: 1px solid whitesmoke;
+    padding: 5px;
+}
+.action-container a{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+
+}
+
+.defaultcss{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.action-logo-container{
+ 
+
+}
+.action-title{
+
+    text-align: center;
+    font-size: large;
+}
