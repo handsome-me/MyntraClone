@@ -1,6 +1,6 @@
 .search-bar-container{
     display: flex;
-    
+    flex: 1;
 }
 
 .search-bar-input{
