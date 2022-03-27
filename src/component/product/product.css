@@ -1,11 +1,26 @@
 .product-image{
-    width: 120px;
-    height: 100px;
-
+    width: 210px;
+    height: 280px;
+    cursor: pointer;
 }
 
 .image-container{
     border: 1px solid seashell;
-    padding: 5px;
+   
+   display:flex;
+   width: 100%;
+}
 
+.product-container{
+    border: 1p solid seashell;
+    background-color: aliceblue;
+    display: inline-flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.product-container:hover{
+    outline: 1px solid rgb(241, 241, 241);
+      box-shadow:  0 0 5px 2px #dcd7d7
+   
 }
