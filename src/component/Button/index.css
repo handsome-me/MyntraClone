@@ -1,0 +1,7 @@
+.button{
+    padding: 5px 20px;
+    margin: 2px 5px;
+    text-align: center;
+    background-color: var(--THEMECOLOR);
+    cursor: pointer;
+}

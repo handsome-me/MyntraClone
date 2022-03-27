@@ -37,3 +37,10 @@
     display: inline-flex;
     border: 1px solid smoke;
 }
+.price-container{
+    display: flex;
+}
+
+.space2{
+    margin: 2px 5px;
+}
